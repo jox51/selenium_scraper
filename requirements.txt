@@ -1,0 +1,184 @@
+appdirs==1.4.4
+appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+Automat==20.2.0
+backcall==0.2.0
+bcrypt @ file:///Users/runner/miniforge3/conda-bld/bcrypt_1602546567499/work
+beautifulsoup4==4.9.3
+brotlipy==0.7.0
+bs4==0.0.1
+certifi==2020.11.8
+cffi @ file:///opt/concourse/worker/volumes/live/b9607b09-b777-4ff7-53dc-287727eb8574/volume/cffi_1600699191154/work
+chardet @ file:///opt/concourse/worker/volumes/live/a5a7c56b-23cb-471d-7404-f4130b8aed33/volume/chardet_1605303184529/work
+click==7.1.2
+constantly==15.1.0
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1604179103599/work
+cssselect==1.1.0
+decorator==4.4.2
+demjson==2.2.4
+fake-useragent==0.1.11
+Flask==1.1.2
+helium==3.0.5
+hyperlink @ file:///home/conda/feedstock_root/build_artifacts/hyperlink_1596631460104/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+incremental==17.5.0
+ipython @ file:///opt/concourse/worker/volumes/live/26969e8f-c9f7-42dc-6ffb-b3effd424c49/volume/ipython_1604101242376/work
+ipython-genutils==0.2.0
+itemadapter @ file:///home/conda/feedstock_root/build_artifacts/itemadapter_1601475707805/work
+itemloaders @ file:///home/conda/feedstock_root/build_artifacts/itemloaders_1599661894329/work
+itsdangerous==1.1.0
+jedi @ file:///opt/concourse/worker/volumes/live/c63c70ef-654a-4d26-6b78-37aef096f225/volume/jedi_1596490811751/work
+Jinja2==2.11.2
+jmespath @ file:///home/conda/feedstock_root/build_artifacts/jmespath_1589369830981/work
+lxml @ file:///Users/runner/miniforge3/conda-bld/lxml_1603104859015/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///opt/concourse/worker/volumes/live/5572694e-967a-4c0c-52cf-b53d43e72de9/volume/numpy_and_numpy_base_1603491881791/work
+olefile==0.46
+pandas @ file:///opt/concourse/worker/volumes/live/f14cf8c4-c564-4eff-4b17-158e90dbf88a/volume/pandas_1602088128240/work
+parse==1.18.0
+parsel @ file:///home/conda/feedstock_root/build_artifacts/parsel_1591122878042/work
+parso==0.7.0
+pexpect @ file:///opt/concourse/worker/volumes/live/8701bb20-ad87-46c7-5108-30c178cf97e5/volume/pexpect_1594383388344/work
+pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
+Pillow @ file:///opt/concourse/worker/volumes/live/991b9a87-3372-4acd-45f9-eaa52701f03c/volume/pillow_1603822262543/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+Protego==0.1.16
+ptyprocess==0.6.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyDispatcher==2.0.5
+pyee==7.0.4
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+PyHamcrest==2.0.2
+pynput==1.7.1
+pyobjc==6.2.2
+pyobjc-core==6.2.2
+pyobjc-framework-Accounts==6.2.2
+pyobjc-framework-AddressBook==6.2.2
+pyobjc-framework-AdSupport==6.2.2
+pyobjc-framework-AppleScriptKit==6.2.2
+pyobjc-framework-AppleScriptObjC==6.2.2
+pyobjc-framework-ApplicationServices==6.2.2
+pyobjc-framework-Automator==6.2.2
+pyobjc-framework-AVFoundation==6.2.2
+pyobjc-framework-AVKit==6.2.2
+pyobjc-framework-BusinessChat==6.2.2
+pyobjc-framework-CalendarStore==6.2.2
+pyobjc-framework-CFNetwork==6.2.2
+pyobjc-framework-CloudKit==6.2.2
+pyobjc-framework-Cocoa==6.2.2
+pyobjc-framework-Collaboration==6.2.2
+pyobjc-framework-ColorSync==6.2.2
+pyobjc-framework-Contacts==6.2.2
+pyobjc-framework-ContactsUI==6.2.2
+pyobjc-framework-CoreAudio==6.2.2
+pyobjc-framework-CoreAudioKit==6.2.2
+pyobjc-framework-CoreBluetooth==6.2.2
+pyobjc-framework-CoreData==6.2.2
+pyobjc-framework-CoreLocation==6.2.2
+pyobjc-framework-CoreMedia==6.2.2
+pyobjc-framework-CoreMediaIO==6.2.2
+pyobjc-framework-CoreML==6.2.2
+pyobjc-framework-CoreServices==6.2.2
+pyobjc-framework-CoreSpotlight==6.2.2
+pyobjc-framework-CoreText==6.2.2
+pyobjc-framework-CoreWLAN==6.2.2
+pyobjc-framework-CryptoTokenKit==6.2.2
+pyobjc-framework-DictionaryServices==6.2.2
+pyobjc-framework-DiscRecording==6.2.2
+pyobjc-framework-DiscRecordingUI==6.2.2
+pyobjc-framework-DiskArbitration==6.2.2
+pyobjc-framework-DVDPlayback==6.2.2
+pyobjc-framework-EventKit==6.2.2
+pyobjc-framework-ExceptionHandling==6.2.2
+pyobjc-framework-ExternalAccessory==6.2.2
+pyobjc-framework-FinderSync==6.2.2
+pyobjc-framework-FSEvents==6.2.2
+pyobjc-framework-GameCenter==6.2.2
+pyobjc-framework-GameController==6.2.2
+pyobjc-framework-GameKit==6.2.2
+pyobjc-framework-GameplayKit==6.2.2
+pyobjc-framework-ImageCaptureCore==6.2.2
+pyobjc-framework-IMServicePlugIn==6.2.2
+pyobjc-framework-InputMethodKit==6.2.2
+pyobjc-framework-InstallerPlugins==6.2.2
+pyobjc-framework-InstantMessage==6.2.2
+pyobjc-framework-Intents==6.2.2
+pyobjc-framework-IOSurface==6.2.2
+pyobjc-framework-iTunesLibrary==6.2.2
+pyobjc-framework-LatentSemanticMapping==6.2.2
+pyobjc-framework-LaunchServices==6.2.2
+pyobjc-framework-libdispatch==6.2.2
+pyobjc-framework-LocalAuthentication==6.2.2
+pyobjc-framework-MapKit==6.2.2
+pyobjc-framework-MediaAccessibility==6.2.2
+pyobjc-framework-MediaLibrary==6.2.2
+pyobjc-framework-MediaPlayer==6.2.2
+pyobjc-framework-MediaToolbox==6.2.2
+pyobjc-framework-Metal==6.2.2
+pyobjc-framework-MetalKit==6.2.2
+pyobjc-framework-ModelIO==6.2.2
+pyobjc-framework-MultipeerConnectivity==6.2.2
+pyobjc-framework-NaturalLanguage==6.2.2
+pyobjc-framework-NetFS==6.2.2
+pyobjc-framework-Network==6.2.2
+pyobjc-framework-NetworkExtension==6.2.2
+pyobjc-framework-NotificationCenter==6.2.2
+pyobjc-framework-OpenDirectory==6.2.2
+pyobjc-framework-OSAKit==6.2.2
+pyobjc-framework-Photos==6.2.2
+pyobjc-framework-PhotosUI==6.2.2
+pyobjc-framework-PreferencePanes==6.2.2
+pyobjc-framework-QTKit==6.2.2
+pyobjc-framework-Quartz==6.2.2
+pyobjc-framework-SafariServices==6.2.2
+pyobjc-framework-SceneKit==6.2.2
+pyobjc-framework-ScreenSaver==6.2.2
+pyobjc-framework-ScriptingBridge==6.2.2
+pyobjc-framework-SearchKit==6.2.2
+pyobjc-framework-Security==6.2.2
+pyobjc-framework-SecurityFoundation==6.2.2
+pyobjc-framework-SecurityInterface==6.2.2
+pyobjc-framework-ServiceManagement==6.2.2
+pyobjc-framework-Social==6.2.2
+pyobjc-framework-SpriteKit==6.2.2
+pyobjc-framework-StoreKit==6.2.2
+pyobjc-framework-SyncServices==6.2.2
+pyobjc-framework-SystemConfiguration==6.2.2
+pyobjc-framework-UserNotifications==6.2.2
+pyobjc-framework-VideoSubscriberAccount==6.2.2
+pyobjc-framework-VideoToolbox==6.2.2
+pyobjc-framework-Vision==6.2.2
+pyobjc-framework-WebKit==6.2.2
+pyOpenSSL==19.1.0
+pyppeteer==0.2.2
+pyquery==1.4.3
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-dateutil==2.8.1
+pytz==2020.1
+queuelib==1.5.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-html==0.10.0
+Scrapy @ file:///Users/runner/miniforge3/conda-bld/scrapy_1604051942598/work
+scrapy-puppeteer==0.0.1b0
+scrapy-requests==0.1.1
+scrapy-selenium==0.0.7
+scrapy-splash==0.7.2
+scrapyrt==0.11.0
+selenium @ file:///opt/concourse/worker/volumes/live/f54cbba5-7632-4bae-5fbd-3ec06aa93a51/volume/selenium_1594416153038/work
+service-identity==18.1.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+soupsieve==2.0.1
+tqdm==4.54.0
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+Twisted @ file:///Users/runner/miniforge3/conda-bld/twisted_1602649042620/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+w3lib @ file:///home/conda/feedstock_root/build_artifacts/w3lib_1591173357158/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+websockets==8.1
+Werkzeug==1.0.1
+zope.interface @ file:///Users/runner/miniforge3/conda-bld/zope.interface_1602253346475/work
